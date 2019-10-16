@@ -1,6 +1,7 @@
 public class IntListRunner 
 {
 
+	//this is runner, it runs 
 	public static void main(String[] args) 
 	{
 		IntList list = new IntList();
