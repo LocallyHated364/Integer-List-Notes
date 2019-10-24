@@ -2,6 +2,7 @@ import java.util.ArrayList;
 public class IntList 
 {
 	private ArrayList<Integer> list;
+	private int useless = 0;
 	public IntList()
 	{
 		list = new ArrayList<Integer>();
